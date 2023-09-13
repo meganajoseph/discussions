@@ -1,4 +1,4 @@
-# discussions
+# homework and discussions
 Discussion problems for the Python DeCal Fall 2023
 
 Dis 1: Data types, functions\
